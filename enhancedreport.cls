@@ -8,6 +8,7 @@
 \DeclareOption{oneside}{\PassOptionsToClass{\CurrentOption}{article}}
 \DeclareOption{twoside}{\PassOptionsToClass{\CurrentOption}{article}}
 \DeclareOption{draft}{\PassOptionsToClass{\CurrentOption}{article}}
+\DeclareOption{demo}{\PassOptionsToClass{\CurrentOption}{article}}
 
 %% Custom package options
 %% Fallback
